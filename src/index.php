@@ -28,7 +28,7 @@
           <div class="Fictional">Example Health 2</div>
         </div>
         <menu class="menu">
-          <menuitem class="lit">management console</menuitem>
+          <menuitem class="lit">management consoleです</menuitem>
           <menuitem class="account">admin</menuitem>
         </menu>
       </div>
